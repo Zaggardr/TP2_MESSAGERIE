@@ -1,1 +1,1 @@
-# TP2_MESSAGERIE
+# Système de messagerie
