@@ -22,5 +22,7 @@ Ce projet implémente un système de messagerie interne pour une société, perm
 - Afficher les messages reçus par un employé .
 
 ## Vidéo:
-
+https://github.com/user-attachments/assets/2e51532d-2ca6-4848-ac26-88b5df2f1e85
 ## Crédits :
+Développé par Zaggar.
+
